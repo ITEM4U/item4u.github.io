@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy
+permalink: /privacy/
 ---
 
 ### 隐私权政策
